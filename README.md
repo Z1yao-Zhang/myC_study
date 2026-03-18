@@ -1,2 +1,2 @@
 # myC_study
-A little rookie leans C++
+A little rookie learns C++
